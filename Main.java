@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 
 public class Main {
 
-    private static com.company.Sender Sender = new com.company.Sender("Freakless91@yandex.ru", "cpne9401011036");
+    private static com.company.Sender Sender = new com.company.Sender("******@yandex.ru", "******");
 
     public static void main(String[] args) throws IOException {
 
